@@ -1,0 +1,11 @@
+.home-prompt {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}

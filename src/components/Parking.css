@@ -1,0 +1,13 @@
+.parking {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+}
+
+select {
+    height: 30px;
+    width: 100%;
+    min-width: 100px;
+    outline: none;
+}
